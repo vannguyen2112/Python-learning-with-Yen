@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/scene/720p30/partial_movie_files/SecondExample/1342159004_1942958943_223132457.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/scene/720p30/partial_movie_files/SecondExample/1353618911_3881751027_3073499576.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/scene/720p30/partial_movie_files/SecondExample/1353618911_2045356518_4054249118.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/scene/720p30/partial_movie_files/SecondExample/1353618911_3566956883_4193628728.mp4'
