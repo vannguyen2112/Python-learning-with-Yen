@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/OpeningManim/1342159004_1239906315_223132457.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/OpeningManim/1353618911_3987251656_397620461.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/OpeningManim/1353618911_760345477_1515196141.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/OpeningManim/1353618911_3987251656_871048020.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/OpeningManim/1353618911_2050614741_3035258475.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/OpeningManim/1353618911_3987251656_332353605.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/OpeningManim/1353618911_2398898484_1057334125.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/OpeningManim/1353618911_3987251656_676540103.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/OpeningManim/1353618911_1873718356_1080976921.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/OpeningManim/1353618911_3987251656_3634885827.mp4'

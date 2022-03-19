@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/e02/720p30/partial_movie_files/ContinuousMotion/1342159004_14804188_1155465415.mp4'
