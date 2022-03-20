@@ -13,6 +13,8 @@ def get_enclosed_box(axes, x, color):
     
     return result 
 
+
+
 class Opti(Scene):
     def construct(self):
         axes = ( Axes(x_range=[-1.1,1.1], y_range=[-1.1,1.1], x_length =5, y_length =5)

@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1342159004_1329296215_223132457.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_3987251656_2647583689.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_770297495_119050781.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_3987251656_1909154685.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_174209858_3519895843.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_3987251656_2344317777.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_1571313804_3067869249.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_3987251656_3758369764.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_2076602089_3796544616.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_3987251656_3628468341.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_3735607858_2781434420.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute2/1353618911_3987251656_240855711.mp4'

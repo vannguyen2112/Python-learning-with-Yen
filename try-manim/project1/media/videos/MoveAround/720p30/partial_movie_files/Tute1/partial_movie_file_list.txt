@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute1/1342159004_3987251656_2647583689.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute1/1353618911_2720407435_3029665089.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute1/1353618911_3987251656_3360231215.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute1/1353618911_3664352714_791594962.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute1/1353618911_3987251656_3604022491.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute1/1353618911_864433055_3519617604.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute1/1353618911_3987251656_1186038492.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute1/1353618911_1222995720_1666157396.mp4'
+file 'file:C:/Users/YEN/Desktop/with_Van/Python-learning-with-Yen/try-manim/project1/media/videos/MoveAround/720p30/partial_movie_files/Tute1/1353618911_3987251656_4121611424.mp4'
